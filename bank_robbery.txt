@@ -1,0 +1,49 @@
+Welcome to the Bank Robbery Adventure!
+You find yourself in front of a bank, ready to execute a daring heist.
+You have two options at each step. Choose wisely!
+
+# First Decision
+You enter the bank and approach the front desk.
+1 - Quietly demand the money from the bank teller
+2 - Fire your gun into the air to create chaos
+
+Choose 1 or 2:
+
+1:
+The bank teller nervously hands over the money. You've taken the first step.
+
+2:
+Your gunshot causes panic! The police are alerted, and you're surrounded.
+Your character has met a tragic end. Game Over!
+
+
+# Second Decision
+With the money in hand, you head towards the exit.
+1 - Make a discreet exit through the back door
+2 - Burst through the front doors, guns blazing
+
+Choose 1 or 2:
+
+1: You quietly exit through the back door, avoiding attention.
+
+2:
+You burst through the front doors, triggering an intense gunfight with the police.
+Your character has met a tragic end. Game Over!
+
+# Third Decision
+You're now outside, but the police are closing in.
+1 - Try to steal a nearby car to escape
+2 - Hide in an alleyway and hope the police pass by
+
+Choose 1 or 2:
+
+1:
+You successfully hotwire a car and make a quick getaway.
+Congratulations, you've escaped with the stolen money!
+
+You've managed to pull off the bank robbery and escape successfully!
+You're now a notorious criminal, living life on the run.
+
+2:
+You hide in the alleyway, but the police eventually find you.
+Your character has met a tragic end. Game Over!
